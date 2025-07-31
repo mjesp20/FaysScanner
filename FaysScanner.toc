@@ -1,0 +1,4 @@
+## Interface: 11404
+## Title: Fays Scanner
+## Notes: Scans raid enchants and exports to CSV
+FaysScanner.lua
